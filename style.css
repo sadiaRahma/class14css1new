@@ -1,0 +1,28 @@
+#division1{
+     
+    border: 10px dotted black;
+    background-color: aqua;
+    padding: 20px;
+    background clip: border;
+    background background-repeat: no-repeat;
+    background background-origin: padding-box;
+    background-size:200px;
+    background-image:
+        url(download.jpg);
+}
+#division2{
+     
+    border: 10px dotted black;
+    background-color: aqua;
+    padding: 20px;
+    background clip: border;
+    background background-repeat: no-repeat;
+    background background-origin: padding-box;
+    background-size:200px;
+     height: 200px;
+    width:200px;
+    border: 2px cyan;
+}
+
+   
+   
